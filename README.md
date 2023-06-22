@@ -1,5 +1,6 @@
 # Wix Bookings Template: A Next.js Coaching Professional Site
 
+
 ![Template showcase](docs/media/template-showcase.gif)
 
 This template is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It uses [Wix Headless](https://dev.wix.com/api/sdk/about-wix-headless/overview) to leverage the Wix Bookings and Wix Pricing Plans business solutions for managing appointments.
